@@ -24,7 +24,6 @@ pip install textblob
     Open your terminal or command prompt.
 
     Navigate to the project directory:
-    Bash
 
     cd path/to/your/folder
 
