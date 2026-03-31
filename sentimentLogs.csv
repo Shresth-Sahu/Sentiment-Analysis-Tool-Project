@@ -1,0 +1,13 @@
+Input Text,Polarity Score,Sentiment
+"I absolutely love the new update, the interface is incredibly fast and beautiful!",0.459,Positive
+The customer support team was fantastic and resolved my issue in less than five minutes.,0.117,Positive
+This is the best purchase I have made all year. Highly recommended.,0.58,Positive
+This is the worst experience I have ever had with a product. It broke immediately.,-1.0,Negative
+I am extremely frustrated and disappointed with the terrible service.,-0.817,Negative
+Do not buy this. It is a complete waste of time and money.,-0.05,Neutral
+The package was delivered on Tuesday afternoon at 3:00 PM.,0.0,Neutral
+The application requires an internet connection to sync the data.,0.0,Neutral
+I read the instruction manual before assembling the desk.,0.0,Neutral
+"The food was okay, but the service was completely awful.",-0.25,Negative
+"I am not exactly thrilled, but it gets the job done.",-0.3,Negative
+It was a terribly good movie.,0.7,Positive
